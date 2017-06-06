@@ -1,0 +1,6 @@
+[package]
+name = "niwashi"
+version = "0.1.0"
+authors = ["yutopp <yutopp@gmail.com>"]
+
+[dependencies]
